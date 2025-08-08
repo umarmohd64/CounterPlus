@@ -47,7 +47,7 @@ export default function App() {
           </ControlButton>
         </div>
 
-        <p className="mt-3 text-muted small">Built by Umar | Onboarding Training</p>
+        <p className="mt-3 text-muted small">Onboarding Training | Umar</p>
       </div>
     </div>
   )
